@@ -53,8 +53,8 @@
 ;;;-----------------------------------------------------------------------------
 (require 'init-packages)
 (require 'init-common-lisp)
-(require 'init-paredit)
-(require 'init-haskell)
+;;(require 'init-paredit)
+;;(require 'init-haskell)
 (require 'init-clojure)
 ;; (require 'init-rust)
 ;; (require 'init-ruby)
